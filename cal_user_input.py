@@ -1,0 +1,17 @@
+a = input("enter first no ")
+b = input("enter second no ")
+#print("addition of two no : ", a+b)
+print("addition of two no ", int(a)+int(b))
+print("sub of two no ", int(a) - int(b))
+print("mul of two no ", int(a) * int(b))
+print("division of two no ", int(a) / int(b))
+'''c = int(a)-int(b)
+print("sub of two no :", c)
+d = float(a) * float(b)
+print("multiplication of two number :",d)
+e = float(a) / float(b)
+print("division of two no is :",e)
+f = float(a) % float(b)
+print("modulo division of two no is :",f)
+
+'''
